@@ -1,0 +1,722 @@
+{
+  "AMPS/ESCROLL": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "AMPS eScroll Web Viewer-N-P",
+    "Group": "N_USA_XXX_ADVANCED MFG PLANNING SYS 3"
+  },
+  "Applications": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "Any application Used by user",
+    "Group": "E_ITA_XXX_IAM_SUPPORT_RPY"
+  },
+  "AQIS - Advanced Quality Information Systems": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "AQIS - Advanced Quality Information Systems-N-P",
+    "Group": "N_USA_XXX_AQP SUPPLIER & MFG QUAL SYS"
+  },
+  "AQP Supplier Reports": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "AQIS - Advanced Quality Information Systems-N-P",
+    "Group": "N_USA_XXX_SUPPLIER QUALITY SYS"
+  },
+  "ASME Die Operations System": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "ASME Applications-N-P",
+    "Group": "N_USA_XXX_ASME DIE OPERATIONSS SYS"
+  },
+  "AutOrigination": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "missing"
+  },
+  "beSTandard": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "beSTandard-E-P",
+    "Group": "E_ITA_XXX_MST_AZURE-RMS_HPE"
+  },
+  "Blue Book Production Forecasts": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Purchasing-eSupplierConnect portal-E-P",
+    "Group": "N_USA_XXX_SP COE SUPPT"
+  },
+  "Capacity Management": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "VVAC-Volume Variance And Capacity-N-P",
+    "Group": "N_USA_XXX_VOLUME VARIANCE & CAPACITY MGT"
+  },
+  "CAPMAN": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "Capacity Management System-E-P",
+    "Group": "E_ITA_XXX_Capman_ITE"
+  },
+  "Carrier Scorecard": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CSD - BA App Support-N-P",
+    "Group": "N_USA_XXX_Bus_Analytics_QlikView_Suppt"
+  },
+  "CATnet": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "CATNET-E-P",
+    "Group": "E_ITA_XXX_SUP_HD1_PSI_EMEA_ICT"
+  },
+  "CENTS -- 3270": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Carrier Electronic Notification of Trailer Status-N-P",
+    "Group": "N_USA_XXX_CARRIER ELEC NOTIFY TRAIL ST"
+  },
+  "CHAMPS/ERS": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CHAMPS Material-N-P",
+    "Group": "N_USA_XXX_RECORD CONTROL & SUPPLIER PERF"
+  },
+  "Change Management Work Flow (CMWF) - Workflow ODM": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "CHANGE MANAGEMENT WORKFLOW-E-P",
+    "Group": "E_ITA_XXX_CMWF_PUR"
+  },
+  "Change Notice": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CN - Change Notice, Global Supplier Portal-N-P",
+    "Group": "N_USA_XXX_CHANGE NOTIFIC SYSTEMS (CN)"
+  },
+  "Chrysler Academy Learning Management System": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Chrysler Academy Learning Management System-N-P",
+    "Group": "N_USA_XXX_CHRYSLER ACADEMY LEARNING CTR"
+  },
+  "Chrysler Automated Material Process": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Chrysler Automated Material Process-N-P",
+    "Group": "N_USA_XXX_RECORD CONTROL & SUPPLIER PERF"
+  },
+  "CMIS Steel Order / Receipt -- 3270": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CMIS - Key Indicator-N-P",
+    "Group": "N_USA_XXX_CMIS MFG RELEASE SYS"
+  },
+  "Common Engineering Application Gateway": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Coordinate Measuring Data Analysis-N-P",
+    "Group": "N_USA_XXX_CMM DATA MGT SYS"
+  },
+  "Common Ship and Delivery Schedule (CSDS)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CSDS - Common Ship and Delivery Schedule-N-P",
+    "Group": "N_USA_XXX_COMMON SHIP & DELIVERY SCHED"
+  },
+  "Consignment Inventory Tracking System (CITS)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Consignment Inventory Tracking System-N-P",
+    "Group": "N_USA_XXX_CONSIGNMNT INV TRKG SUPPT"
+  },
+  "Container Portal (CRATES/ACAP)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Container Management System & Container Usage-N-P",
+    "Group": "N_USA_XXX_CONTAINER SYSTEMS OFFSHORE ITM"
+  },
+  "Container Repair Tracking": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Container Repair Tracking-N-P",
+    "Group": "N_USA_XXX_MFG DASHBOARD"
+  },
+  "Continental File Cabinet": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "N_USA_XXX_POWERTRAIN SOFTWARE"
+  },
+  "Corporate Accounts Payable (CAP)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Corporate Accounts Payable Supplier Portal (SPIN)-N-P",
+    "Group": "CAP Help Desk 844-289-1227"
+  },
+  "Corporate Quality Management System (CQMS)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Chrysler Quality Management System-N-P",
+    "Group": "N_USA_XXX_AQP SUPPLIER & MFG QUAL SYS"
+  },
+  "CPT- Creative Project Tracker": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Creative Project Tracker-N-P",
+    "Group": "N_USA_XXX_VISUAL_ASSET_MANAGEMENT"
+  },
+  "CSPS": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "CSPS FCA EMEA-E-P",
+    "Group": "E_ITA_XXX_MPS_SUPP_BUS"
+  },
+  "Cummins File Cabinet": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "N_USA_XXX_POWERTRAIN SOFTWARE"
+  },
+  "Customer Owner Information Network (COIN)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CUSTOMER OWNER INFORMATION NETWORK (COIN)-N-P",
+    "Group": "N_USA_XXX_CUSTOMER/OWNER INFO NETWORK"
+  },
+  "DCA File Cabinets": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "N_USA_XXX_POWERTRAIN SOFTWARE"
+  },
+  "DCA PMO Project File Cabinets": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "N_USA_XXX_POWERTRAIN SOFTWARE"
+  },
+  "Dealer Eligibility Supplier Inquiry Site": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Market Center-N-P",
+    "Group": "N_USA_XXX_MARKETCENTER"
+  },
+  "Delivery Rating Improvement Verification (DRIVe)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "DRIVe - Delivery Rating Improvement Verification-N-P",
+    "Group": "N_USA_XXX_DRIVE APP SUPPT"
+  },
+  "EBOM Color / Fabric / Mastering / Interior Craftsmanship Studios": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "DATAMART MARKETING-E-P",
+    "Group": "N_USA_XXX_ENGR PRODUCT DESIGN OFFICE"
+  },
+  "EBSC - External Balanced Scorecard": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Supplier External Balanced Scorecard-N-P",
+    "Group": "N_USA_XXX_EXTERNAL BALANCED SCORECARD"
+  },
+  "E-CHANGE-ELOG": {
+    "Hosting Region": "LATAM hosted",
+    "DRIVE IT Configuration Item Name": "E-CHANGE-ELOG-FIASA-L-P",
+    "Group": "L_BRA_XXX_GBS_OPS_WEB_IBM"
+  },
+  "eCIMS (Electronic Corporate Issue Management System)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "eCIMS - Corporate Issue Management System-N-P",
+    "Group": "N_USA_XXX_ECIMS"
+  },
+  "e-design": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "e-Design-N-P",
+    "Group": "N_USA_XXX_EDESIGN SYSTEM SUPPORT"
+  },
+  "EMEA Purchase Order (PO) Inquire": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "Purchasing-EMEA Purchase Order Inquire-E-P",
+    "Group": "E_ITA_XXX_Purchasing-Portal_ITE / E_ITA_XXX_EMEA_PO_INQUIRY_BUS (for Business Purchasing EMEA)"
+  },
+  "Enterprise Visual Engine (EVE)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "EVE - Enterprise Visual Engine-N-P",
+    "Group": "N_USA_XXX_ENTERPRISE VISUAL ENGINE"
+  },
+  "EPS %uFFFD Engineering Planning System": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "OdA Panel-E-P",
+    "Group": "E_XXX_XXX_EPS_SKY"
+  },
+  "eSupplierConnect": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "Purchasing-eSupplierConnect portal-E-P",
+    "Group": "E_ITA_XXX_ESC_ProjectTeam_TEC"
+  },
+  "eVOs (FCA Vehicle)": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "eVOs-E-P",
+    "Group": "E_ITA_XXX_AMS_EVOS_ENG"
+  },
+  "Exception - Application not in our scope": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "N_USA_XXX_GLOBAL SUPPLIER PRTAL IT SUPPT"
+  },
+  "Expeditors PTM": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Expeditors PTM-N-P",
+    "Group": "Expeditors Help Desk 1-800-893-6211\nN_USA_XXX_CORPORATE AP - RECAP - SPIN"
+  },
+  "F4S - FIAT Logistics Portal": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "Refer to INTESA Help-Desk with details in KB"
+  },
+  "Fast Feedback Management System": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "FFB - Fast Feedback-N-P",
+    "Group": "N_USA_XXX_FAST FEEDBACK MGT SYS"
+  },
+  "FAST Search": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "FAST Search-N-P",
+    "Group": "N_USA_XXX_FAST ENTERPRISE FEDERATD SRCH"
+  },
+  "FAST Vehicles": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "US Imports-N-P",
+    "Group": "N_USA_XXX_FAST- FREE & SECURE TRADE"
+  },
+  "FCA Online Carrier Universal Scorecard (FOCUS)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "N_USA_XXX_BUS_ANALYTICS_QLIKVIEW_SUPPT"
+  },
+  "FCM EMEA %uFFFD Container Management": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "FIAT CONTAINERS MANAGEMENT-E-P",
+    "Group": "E_ITA_XXX_IFAST4SUPPLIERS"
+  },
+  "FCM LATAM %uFFFD Container Management": {
+    "Hosting Region": "LATAM hosted",
+    "DRIVE IT Configuration Item Name": "FIAT CONTAINERS MANAGEMENT-E-P",
+    "Group": "L_BRA_XXX_FCM_IBM"
+  },
+  "Financial Document Management": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Document Management System-N-P",
+    "Group": "N_USA_XXX_INVOICING BUNDLE GOLD DMS SYS"
+  },
+  "Free And Secure Trade (FAST) -- 3270": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "US Imports-N-P",
+    "Group": "N_USA_XXX_US IMPORT CUSTOMS SYS"
+  },
+  "Global EBSC": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Global Supplier Scorecard-N-P",
+    "Group": "N_USA_XXX_GLOBAL_EBSC"
+  },
+  "Global Issue Management (GIM)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Global Issue Management-N-P",
+    "Group": "N_USA_XXX_Global_Issue_Managment_HD1"
+  },
+  "Global Service - International Database": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "missing"
+  },
+  "Global Technical Cost Reduction (GTCR) (Only Powertrain)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Global Technical Cost Reduction-N-P",
+    "Group": "N_USA_XXX_Global_Technical_Cost_Reduction"
+  },
+  "GPSIS - Global Platform for Sourcing and Information Services": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "GPSIS-N-P",
+    "Group": "N_USA_XXX_GPSIS ITM PRODUCTION SUPPT"
+  },
+  "GST- Global Sourcing Tool": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "GST-Global Sourcing Tool-E-P",
+    "Group": "E_ITA_XXX_GCSS_ITE"
+  },
+  "iforum": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "iForum-N-P",
+    "Group": "N_USA_XXX_CORPORATE INTERNET OPS NETWORK"
+  },
+  "Infrastructure": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "ADFS_Security_Infrastructure-FCA-E-P",
+    "Group": "E_XXX_XXX_ASA-SERVICES-NPO_IBM"
+  },
+  "International Product Specifications": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "iForum-N-P",
+    "Group": "N_USA_XXX_CORPORATE INTERNET OPS NETWORK"
+  },
+  "iPass": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "iPASS-N-P",
+    "Group": "N_USA_XXX_INTEGRATED PROC AND SUPPLY SYS"
+  },
+  "ISO/TS16949 Registration": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "N_USA_XXX_SPIN_WRRNTY_REDUCTN_PRGM_SUPPT"
+  },
+  "iSPEED": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "iSpeed-N-P",
+    "Group": "N_USA_XXX_ELECTRICAL/WIRING DATA MGT"
+  },
+  "KD Approved Boxing Schedule System": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "KD BOM/LOTS/LOG/KABS/ACCT/FIN/WAR-N-P",
+    "Group": "N_USA_XXX_KD & KABS EXTRANET SYS"
+  },
+  "KD Inquiry/Maintenance/Reports": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "KD BOM/LOTS/LOG/KABS/ACCT/FIN/WAR-N-P",
+    "Group": "N_USA_XXX_KD & KABS EXTRANET SYS"
+  },
+  "KD Systems %uFFFD-- 3270": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "KD REL/TRAN/SEC/OTIS/PLANTS-N-P",
+    "Group": "N_USA_XXX_CORPORATE INTERNET OPS NETWORK"
+  },
+  "Logistics Payment": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Vehicle Info System for Transportation Analysis-N-P",
+    "Group": "N_USA_XXX_LOGISTICS ENTERPRISE NETWORK"
+  },
+  "Logistics Portal": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Logistics Extended Enterprise Network-N-P",
+    "Group": "N_USA_XXX_LOGISTICS ENTERPRISE NETWORK"
+  },
+  "Logistics Vehicle": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "N_USA_XXX_LOGISTICS ENTERPRISE NETWORK"
+  },
+  "MaPS (MPS)": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "Material Processing Solution 1.0-E-P",
+    "Group": "G_ITA_XXX_HD1_MAPS_ENG"
+  },
+  "Market Product Information (MPI)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "MPI - Web Applications-N-P",
+    "Group": "N_USA_XXX_MARKETING PRODUCT INFO SUPPT"
+  },
+  "MarketCenter Supplier Scorecard": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Market Center-N-P",
+    "Group": "N_USA_XXX_MARKETCENTER"
+  },
+  "MEDDS Supplier Communication": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "MEDDS Supplier Communication-N-P",
+    "Group": "N_USA_XXX_MEDDS"
+  },
+  "Monroney Printer Software Download": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "N_USA_XXX_VEHICLE SHIPPING"
+  },
+  "Mopar Materials": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Mopar MODEL-N-P",
+    "Group": "N_USA_XXX_DELIV RATNG IMPROV VERIF SUPPT"
+  },
+  "MOPAR Oddbox Direct Electronic Linkage (MODEL)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Mopar MODEL-N-P",
+    "Group": "N_USA_XXX_DELIV RATNG IMPROV VERIF SUPPT"
+  },
+  "MOPAR Parts - Global Core Return System -- 3270": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Mopar Global Core Return System-N-P",
+    "Group": "N_USA_XXX_GLOBAL CORE RETURN SYS SUPPT"
+  },
+  "MOPAR Parts - GPOP Order Tracking -- 3270": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "GPOP Global Parts Order Processing- Security-N-P",
+    "Group": "N_USA_XXX_GLOBAL PARTS ORDER PROCESSING"
+  },
+  "Mopar Supplier Performance Reporting": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Mopar Supplier Performance - BI App Support-N-P",
+    "Group": "N_USA_XXX_RUN_MOPAR BI SUPPT"
+  },
+  "MPS RF Shipping -- 3270": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "N_USA_XXX_MFG SHIP & RECEIVING"
+  },
+  "MX-APFIDI": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "MX-APFIDI-N-P",
+    "Group": "N_MEX_FHR_FIANANCE & HUMAN RESOURCES"
+  },
+  "NAFTA Purchase Order (PO) Inquire": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "NAFTA Purchase Order (PO) Inquire-N-P",
+    "Group": "N_USA_XXX_GPSIS ITM PRODUCTION SUPPT"
+  },
+  "Non Conformance Tracking (NCT)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "NCT - NonConformance Tracking-N-P",
+    "Group": "N_USA_XXX_NON-CONFORMANCE TRACKING"
+  },
+  "OBT": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "OBT - OutBound Transportation-N-P",
+    "Group": "N_XXX_XXX_OBT_OUTBOUND_TRANSPORTATION_SUPPT"
+  },
+  "Offload System (Offload Steel)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Offload System (Offload Steel)-N-P",
+    "Group": "N_USA_XXX_RAW MATERIAL OFFLOAD SYS IT"
+  },
+  "Palantir - My Analysis Portal": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Palantir - My Analysis Portal-N-P",
+    "Group": "N_USA_XXX_PMAP%uFFFD%uFFFD%uFFFD%uFFFD"
+  },
+  "Part Return Analysis System (PRAS)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "PRAS - Part Request Analysis System-N-P",
+    "Group": "N_USA_XXX_PART RETURN ANALYSIS SYS"
+  },
+  "Part Return Analysis System (PRAS) - PRIST": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "PRAS - Part Request Analysis System-N-P",
+    "Group": "N_USA_XXX_PARTS RETURN ANALYSIS SYSTEM"
+  },
+  "Part System Viewer (PSV)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Parts System Viewer-N-P",
+    "Group": "missing"
+  },
+  "Pay as Built": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Pay as Built/Sequenced Part Delivery-N-P",
+    "Group": "N_USA_XXX_PAY AS BUILT"
+  },
+  "Plant Production Control Portal": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "PC Portal II-N-P",
+    "Group": "N_USA_XXX_OUTBOUND PC PORTAL"
+  },
+  "Powertrain Controllers Team Room": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "N_USA_XXX_POWERTRAIN SOFTWARE"
+  },
+  "PowerTrain Issue Tracking System (PITS)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "PowerTrain Incident Managment Databse-N-P",
+    "Group": "N_USA_XXX_POWERTRAIN SOFTWARE"
+  },
+  "Precious Metal Tracking -- 3270": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Precious Group Metals-N-P",
+    "Group": "N_USA_XXX_PRECIOUS GROUP METALS"
+  },
+  "Preferential Origin of Goods": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "Purchasing-Preferential Origin of Goods-E-P",
+    "Group": "E_ITA_XXX_Purchasing-Portal_ITE / E_ITA_XXX_EMEA_POOG_BUS (for Business Purchasing EMEA)"
+  },
+  "Premium Transportation (SPOC) -- 3270": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Authorized Excess Transportation Cost-N-P",
+    "Group": "N_USA_XXX_PREMIUM TRANSPORTATION SYS"
+  },
+  "Product Data Licensing": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "N_USA_XXX_MARKETING PRODUCT INFO SUPPT"
+  },
+  "Receipt Discrepancy Reporting (RDR) Dispute Process -- 3270": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Central Corrections-N-P",
+    "Group": "N_USA_XXX_CHAMPS SCREEN ON SPIN - SMART"
+  },
+  "SCDM": {
+    "Hosting Region": "LATAM hosted",
+    "DRIVE IT Configuration Item Name": "SUPPLY CHAIN DATA MANAGER-L-P",
+    "Group": "Phone: +55 11 3848-5788 -> option 2 / E-Mail: suporte@di2s.com"
+  },
+  "Service Marketing Operations": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Service Mktng Pgm Admin / Service Mktng Operations-N-P",
+    "Group": "N_USA_XXX_SERVICE MARKETING PRGRM ADMIN"
+  },
+  "SII Admin Document Database": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "N_USA_XXX_SUPPLR CONNECTION PROCES SUPPT"
+  },
+  "Sistema de Desvios LATAM": {
+    "Hosting Region": "LATAM hosted",
+    "DRIVE IT Configuration Item Name": "GESTAO DE DESVIOS-FIASA-L-P",
+    "Group": "L_BRA_FAB_QUALIDADE_APP_ICT"
+  },
+  "SOC - Supplier Order Confirmation": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "OTM INBOUND-E-P",
+    "Group": "soc-ifast@fcagroup.com"
+  },
+  "SoC/IMDS Compliance Portal": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "SEE-IMDS / CSICP-N-P",
+    "Group": "N_USA_XXX_KNOWLEDGE BASED SYS GROUP"
+  },
+  "Source Package": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Source Package-N-P",
+    "Group": "N_USA_XXX_PACKAGE SOURCE"
+  },
+  "Special Investigation Vehicle Safety System": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CAC Special Investigation & Vehicle Safety System-N-P",
+    "Group": "missing"
+  },
+  "Specify the Vehicle -- 3270": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "STV - Specify The Vehicle-N-P",
+    "Group": "N_USA_XXX_SPECIFY THE VEHICLE"
+  },
+  "SQP and SUSTAINABILITY": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "SUPPLY QUALITY PERFORMANCE FCA 2.0-E-P",
+    "Group": "G_ITA_XXX_HD1_SQP_FCA_ENG"
+  },
+  "Supplier Cancellation Claim System (SCCS)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Supplier Cancellation Claims Request System-N-P",
+    "Group": "N_USA_XXX_SUPPLIER CLAIM FIXD ASSET-NOTE"
+  },
+  "Supplier Extended Enterprise Claims System Documentation": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Supplier Extended Enterprise Claims System-N-P",
+    "Group": "N_USA_XXX_SUPPLIER CLAIM"
+  },
+  "Supplier Extended Enterprise(R) Claims System (SEECS) -- 3270": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Supplier Extended Enterprise Claims System-N-P",
+    "Group": "N_USA_XXX_SUPPLIER CLAIM"
+  },
+  "Supplier FI": {
+    "Hosting Region": "LATAM hosted",
+    "DRIVE IT Configuration Item Name": "FI PROVEEDORES-FAASA-L-P",
+    "Group": "none"
+  },
+  "Supplier Learning Center": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "Supplier Learning Center Help Desk 888-321-4321"
+  },
+  "Supplier Material Requirement Tracking System (SMART) -- 3270": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "SMART - Supplier Material Requirements Tracking-N-P",
+    "Group": "N_USA_XXX_SUPLR MATL ACTIV RPTG & TRKNG"
+  },
+  "Supplier Profile Update System": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Supplier Profile Update System-N-P",
+    "Group": "N_USA_XXX_GPSIS ITM PRODUCTION SUPPT"
+  },
+  "Supplier Quality Portal": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "SQ Portal-N-P",
+    "Group": "N_USA_XXX_SUPPLIER QUALITY SYS"
+  },
+  "Supplier Ship Direct -- 3270": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "GPOP- SSD (Supplier Ship Direct)-N-P",
+    "Group": "N_USA_XXX_GLOBAL PARTS ORDER PROCESSING"
+  },
+  "Supplier Ship Direct - Web": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "GPOP- SSD (Supplier Ship Direct)-N-P",
+    "Group": "N_USA_XXX_GLOBAL PARTS ORDER PROCESSING"
+  },
+  "Supplier Warranty Management - WIS,EWT,GCS,QNA": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "GCS - Global Claims System-N-P",
+    "Group": "N_USA_XXX_CLAIM RUN"
+  },
+  "Supply Chain Knowledge Center": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "none, write to SCMSDD@fcagroup.com"
+  },
+  "Supply Portal Scoreboard": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Outbound PC Portal-N-P",
+    "Group": "N_USA_XXX_OUTBOUND PC PORTAL"
+  },
+  "Sustainability": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "Sustainability FCA-E-P",
+    "Group": "G_ITA_XXX_HD1_SQP_FCA_ENG"
+  },
+  "TCR/CCM/CSI": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "TCR/CCM/CSI-N-P",
+    "Group": "N_USA_XXX_MATERIAL COST MGT IT SUPPT"
+  },
+  "TEAM CENTER": {
+    "Hosting Region": "EMEA  hosted",
+    "DRIVE IT Configuration Item Name": "FCA ITA TeamCenter WEB-E-P",
+    "Group": "E_ITA_XXX_TC"
+  },
+  "Third Party Containment and Problem Resolution (3CPR)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "Third Party Containment and Problem Resolution-N-P",
+    "Group": "N_USA_XXX_3RD PRTY CONTAINMENT & PROBLEM"
+  },
+  "US Import Vehicle System (USIVS) - Ocean Shipments": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "US Imports-N-P",
+    "Group": "N_USA_XXX_FAST- FREE & SECURE TRADE"
+  },
+  "US Import Vehicle System (USIVS) - Rail Shipments": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "US Imports-N-P",
+    "Group": "N_USA_XXX_FAST- FREE & SECURE TRADE"
+  },
+  "US Imports Shipments Release": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "US Imports-N-P",
+    "Group": "N_USA_XXX_FAST- FREE & SECURE TRADE"
+  },
+  "USDI File Cabinet": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "missing"
+  },
+  "VAM - Visual Asset Management": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "VAM - Visual Asset Management-N-P",
+    "Group": "N_USA_XXX_VISUAL_ASSET_MANAGEMENT"
+  },
+  "VEH Exchange": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "N_USA_XXX_GLOBAL REGULATORY COMPLIANCE"
+  },
+  "Vendor Managed Inventory (VMI)": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "VMI - Vendor Managed Inventory-N-P",
+    "Group": "N_USA_XXX_ITM VENDOR MANAGED INVENTORY"
+  },
+  "Warranty Recovery Programs": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "SWRS - Supplier Warranty Recovery System-N-P",
+    "Group": "N_USA_XXX_QEC IT SYS"
+  },
+  "Web Academy": {
+    "Hosting Region": "EMEA hosted",
+    "DRIVE IT Configuration Item Name": "WEBACADEMY-E-P",
+    "Group": "G_ITA_XXX_FWA_STAFF_FCA"
+  },
+  "WebCHAMPS": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CHAMPS Material-N-P",
+    "Group": "N_USA_XXX_RECORD CONTROL & SUPPLIER PERF"
+  },
+  "webRFQ - Request for Quote": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "webRFQ - Request for Quote-N-P",
+    "Group": "N_USA_XXX_ELECTRONIC PO SUPPT"
+  },
+  "WebRFQ - Request for Quote - Direct": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "webRFQ - Request for Quote-N-P",
+    "Group": "N_USA_XXX_ELECTRONIC PO SUPPT"
+  },
+  "WebRFQ - Request for Quote - Indirect": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "webRFQ - Request for Quote-N-P",
+    "Group": "N_USA_XXX_ELECTRONIC PO SUPPT"
+  },
+  "World-I4 File Cabinet": {
+    "Hosting Region": "NAFTA hosted",
+    "DRIVE IT Configuration Item Name": "CI missing",
+    "Group": "N_USA_XXX_POWERTRAIN SOFTWARE"
+  }
+}
